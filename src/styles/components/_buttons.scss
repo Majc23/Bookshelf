@@ -52,9 +52,26 @@
     }
 }
 
+.btn-primary-3 {
+    background-color: $primary;
+    border: solid 1px;
+    border-radius: 20px;
+    margin: 5px;
+    
+    &:disabled {
+        background-color: #cccccc;
+    border-color: grey;
+    color: grey;
+    }
+
+    &:hover { 
+        background-color: darken($color: $primary, $amount: 15);
+    }
+}
+
 .btn-danger {
     background-color: red;
-
+    margin: 5px;
     transition: background-color .3s ease;
 
     &:hover {

@@ -146,14 +146,14 @@ export const NotesAppBar = () => {
 
             <div>
                 <button 
-                    className="btn btn-primary"
+                    className="btn btn-primary-3"
                     onClick={ handlePictureClick }
                 >
                     Picture
                 </button>
 
                 <button 
-                className="btn btn-primary"
+                className="btn btn-primary-3"
                     onClick={ handleSave }
                     disabled={ body === '' || title === '' }
                     
