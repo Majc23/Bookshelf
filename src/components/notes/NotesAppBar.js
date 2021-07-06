@@ -68,7 +68,6 @@ export const NotesAppBar = () => {
     
     
 
-    //console.log(shelf);
 
     const handleSave = () => {
         if( body !== '' && title !== ''){
@@ -102,7 +101,6 @@ export const NotesAppBar = () => {
 
     const handleChangeType = (e) => {
        
-        //console.log(target.value);
         handleInputChange(e);
     }
 
