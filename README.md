@@ -22,7 +22,7 @@ To get started please follow the steps below:
 
 ## Main Page
 
-<img src="" />
+<img src="https://github.com/Majc23/Bookshelf/blob/fdc6b724fc54624a79ad350f57b277c22d5997eb/public/Main.png" />
 
 - The main page shows 3 shelves for books. Each shelf contains books that belong to that shelf.
 - The selected book is displayed on the right side, in case it has nothing, the non-selection screen is displayed.
@@ -31,14 +31,14 @@ To get started please follow the steps below:
 
 ## Login Page
 
-<img src="" />
+<img src="https://github.com/Majc23/Bookshelf/blob/fdc6b724fc54624a79ad350f57b277c22d5997eb/public/Login.png" />
 
 - The login page has an input field to enter the authenticated mail and password (Firebase authentication) in the backend database (Firestore).
 - As the user prefers, he can authenticate through a gmail email
 
 ## Register Page
 
-<img src="" />
+<img src="https://github.com/Majc23/Bookshelf/blob/fdc6b724fc54624a79ad350f57b277c22d5997eb/public/Register.png" />
 
 - The registration page has a controlled input field to enter the name, email and password.
 
